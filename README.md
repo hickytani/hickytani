@@ -1,93 +1,87 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:050816,35:111D4A,70:4F46E5,100:06B6D4&text=HICKYTANI&fontColor=EAFBFF&fontSize=72&fontAlignY=45&stroke=67E8F9&strokeWidth=1&animation=fadeIn&desc=BUILDING%20THINGS%20THAT%20SHOULD%20EXIST&descAlignY=68&descSize=13" width="100%" alt="HICKYTANI — building things that should exist"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:05080D,35:101B2B,70:123B4A,100:05080D&text=PRASUN&fontColor=E5FBFF&fontSize=68&fontAlignY=45&desc=ENGINEERING%20BEYOND%20THE%20OBVIOUS&descSize=13&descColor=67E8F9&descAlignY=68&animation=fadeIn" width="100%" alt="Prasun — Engineering Beyond the Obvious"/>
 
 <br/>
 
-<a href="https://github.com/hickytani"><img src="https://img.shields.io/badge/GitHub-hickytani-0B1020?style=for-the-badge&logo=github&logoColor=67E8F9" /></a>
-<a href="https://github.com/hickytani?tab=repositories"><img src="https://img.shields.io/badge/EXPERIMENTS-OPEN-111827?style=for-the-badge&logo=github&logoColor=A5B4FC" /></a>
-<img src="https://komarev.com/ghpvc/?username=hickytani&style=for-the-badge&color=312E81&label=PROFILE+SIGNALS" alt="Profile views"/>
-
-<br/><br/>
-
-### `prasun` &nbsp; aka &nbsp; `hickytani`
-
-*I like understanding how things work — then building my own version.*
-
-Computer Science undergrad. Full-stack builder. Systems enthusiast.
-
-Exploring the intersection of software engineering, AI-powered applications, backend architecture, and developer tooling. Sometimes that means shipping a product; sometimes it means spending an unreasonable amount of time figuring out why something breaks.
-
-**Less tutorial hell. More building. More breaking. More learning.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2400&pause=750&color=67E8F9&center=true&vCenter=true&width=700&height=35&lines=I+LIKE+SYSTEMS+THAT+MAKE+YOU+THINK.;NOT+ANOTHER+LAYER+OF+ABSTRACTION.;BUILD+IT.+BREAK+IT.+UNDERSTAND+IT.;THE+INTERESTING+PART+IS+UNDER+THE+HOOD." alt="Engineering philosophy"/>
 
 <br/>
 
-<a href="https://github.com/hickytani?tab=repositories">EXPLORE MY WORK ↗</a> &nbsp; ◈ &nbsp;
-<a href="https://github.com/hickytani?tab=activity">FOLLOW THE TRAIL ↗</a>
+`AI / SYSTEMS / FULL-STACK / EXPERIMENTS`
+
+<br/>
+
+[GitHub](https://github.com/hickytani) · [Portfolio](https://portflw.netlify.app/)
 
 </div>
 
 ---
 
-<div align="center">
+<sub>01 / THE PREMISE</sub>
 
-## `01` — THE OPERATING SYSTEM
+# I care about what happens underneath.
 
-</div>
+I’m a CSE student at VIT Chennai, building across AI, backend engineering, developer tooling, and geospatial systems.
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  USER: PRASUN / HICKYTANI                         STATUS: ON │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  CURRENT MODE                                                │
-│  ├── Building full-stack products                            │
-│  ├── Exploring practical AI integrations                     │
-│  ├── Learning backend, infrastructure & system design        │
-│  └── Turning questionable ideas into working software        │
-│                                                              │
-│  PHILOSOPHY                                                  │
-│  ├── Understand the abstraction before trusting it           │
-│  ├── Prefer evidence over assumptions                        │
-│  ├── Build for failure, not just the happy path              │
-│  └── Ship something real                                     │
-│                                                              │
-│  NEXT OBJECTIVE                                              │
-│  └── Become the engineer who can build the whole thing.      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+I like projects where the hard part isn't making a demo look convincing — it's making the underlying system actually work.
 
-<div align="center">
+That means tracing state across services, figuring out what a cluster is *really* running, building interfaces over real-world data, and questioning abstractions when they stop making sense.
 
-## `02` — THE TOOLKIT
+I’d rather understand the failure than hide it behind a green status indicator.
 
-*One stack. Multiple layers. Constantly evolving.*
+---
 
-</div>
+<sub>02 / WORK IN PROGRESS</sub>
+
+# Things with a pulse.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**⌘ LANGUAGES**
+### WORLD//OS
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts&theme=dark" alt="Java, C++, Python, JavaScript, TypeScript"/>
+`GEOSPATIAL SYSTEMS`
 
-**◈ FRONTEND & MOBILE**
+A real-world digital-twin experiment exploring geographic data, terrain, buildings, roads, and the infrastructure needed to bring them together.
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" alt="React, Next.js, HTML, CSS"/>
+**The interesting problem:** turning fragmented geographic sources into a coherent world.
 
 </td>
 <td width="50%" valign="top">
 
-**⌘ BACKEND & DATA**
+### k8s-truth
 
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,redis,prisma&theme=dark" alt="Node.js, FastAPI, PostgreSQL, Redis, Prisma"/>
+`KUBERNETES / GO`
 
-**◈ INFRASTRUCTURE & TOOLS**
+A read-only workload verification tool designed to trace declared configuration toward actual runtime evidence.
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws&theme=dark" alt="Git, GitHub, Docker, Linux, AWS"/>
+**The interesting problem:** knowing when a system matches its intended state — and when the evidence simply isn't enough.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### GitScope
+
+`REPOSITORY INTELLIGENCE`
+
+A repository-analysis project connecting Python analysis, a TypeScript backend, and a web dashboard.
+
+**The interesting problem:** extracting useful structure from code instead of merely displaying repository metadata.
+
+</td>
+<td width="50%" valign="top">
+
+### ThreatSync
+
+`SECURITY / BACKEND`
+
+A security investigation platform exploring tenant isolation, event deduplication, risk workflows, and auditable investigation data.
+
+**The interesting problem:** building backend workflows where trust boundaries matter.
 
 </td>
 </tr>
@@ -95,125 +89,93 @@ Exploring the intersection of software engineering, AI-powered applications, bac
 
 <div align="center">
 
-**ALSO EXPLORING**
+<sub>Explore the code, not just the descriptions.</sub>
 
-`LLM APIs` &nbsp; · &nbsp; `RAG` &nbsp; · &nbsp; `AI Agents` &nbsp; · &nbsp; `API Design` &nbsp; · &nbsp; `System Design` &nbsp; · &nbsp; `Geospatial Systems`
+<br/>
+
+[WORLD//OS](https://github.com/hickytani) &nbsp; / &nbsp; [k8s-truth](https://github.com/hickytani) &nbsp; / &nbsp; [GitScope](https://github.com/hickytani) &nbsp; / &nbsp; [ThreatSync](https://github.com/hickytani)
 
 </div>
 
 ---
 
-<div align="center">
+<sub>03 / THE TOOLBOX</sub>
 
-## `03` — THE WORKSHOP
-
-*The interesting part isn't the tech stack. It's what you make with it.*
-
-</div>
+# Different layers. Same curiosity.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="33%">
 
-### ◈ WORLD//OS
+**01 — Languages**
 
-A geospatial digital-world project exploring real-world map data, geographic infrastructure, and interactive environments.
-
-**Focus:** geospatial pipelines · data integration · spatial systems
+Java · C++ · Python · TypeScript · JavaScript · Go
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="33%">
 
-### ◈ GitScope
+**02 — Building**
 
-A GitHub repository analysis project with a backend API and a dashboard for inspecting repository information.
-
-**Focus:** Python · TypeScript · APIs · repository analysis
+React · Node.js · FastAPI · PostgreSQL · REST APIs · Docker
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td valign="top" width="34%">
 
-### ◈ ThreatSync
+**03 — Exploring**
 
-A security-focused application exploring investigation workflows, event handling, auditability, and tenant isolation.
-
-**Focus:** security engineering · backend architecture · data integrity
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ k8s-truth
-
-A read-only Kubernetes verification tool designed to compare declared workloads with observable runtime evidence.
-
-**Focus:** Go · Kubernetes · evidence-driven verification
+LLM APIs · RAG · Agents · Kubernetes · Geospatial data · Security engineering
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<a href="https://github.com/hickytani?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/></a>
-
-</div>
+I care less about collecting technologies and more about understanding how they fit together — where state lives, where failures propagate, and what happens when assumptions break.
 
 ---
 
-<div align="center">
+<sub>04 / OPERATING PRINCIPLES</sub>
 
-## `04` — THE SIGNAL
-
-*Less vanity. More commits, experiments, and things that actually work.*
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hickytani&show_icons=true&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=C7D2FE&icon_color=A5B4FC&ring_color=06B6D4" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickytani&layout=compact&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=C7D2FE" alt="Most-used languages"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hickytani&bg_color=050816&color=C7D2FE&line=06B6D4&point=A5B4FC&area=true&hide_border=true&custom_title=THE%20CONTRIBUTION%20TIMELINE" alt="GitHub contribution activity graph"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=hickytani&hide_border=true&background=050816&ring=06B6D4&fire=A5B4FC&currStreakLabel=67E8F9&sideLabels=C7D2FE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub streak statistics"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `05` — THE NEXT COMMIT
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Build+something+useful.;Understand+something+deeply.;Make+the+next+version+better.;Repeat." alt="Build. Understand. Improve. Repeat."/>
-
-<br/>
+# A few things I believe.
 
 ```text
-while (curious) {
-    learn();
-    build();
-    test_assumptions();
-    improve();
-}
+01  A working demo is a beginning, not proof.
+
+02  Unknown is a legitimate system state.
+    Pretending otherwise is a bug.
+
+03  Good abstractions reduce complexity.
+    Bad ones merely relocate it.
+
+04  Security belongs in the architecture,
+    not in the final checklist.
+
+05  Read the source. Trace the request.
+    Verify the claim.
+
+06  Ship the thing. Then understand why it works.
 ```
 
-**Open to interesting engineering problems, ambitious builders, and opportunities to ship real software.**
+---
+
+<sub>05 / OUTSIDE THE HAPPY PATH</sub>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=TRACE+THE+REQUEST.;FOLLOW+THE+STATE.;FIND+THE+BOUNDARY.;REPEAT." alt="Debugging loop"/>
 
 <br/>
 
-<a href="https://github.com/hickytani"><img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Let's build something"/></a>
+**Curiosity is the feature. Everything else is implementation.**
+
+<br/>
+
+[<img src="https://img.shields.io/badge/EXPLORE_THE_CODE-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore GitHub"/>](https://github.com/hickytani)
+[<img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=vercel&logoColor=67E8F9" alt="Portfolio"/>](https://portflw.netlify.app/)
 
 <br/><br/>
 
-<sub>Designed in curiosity. Built in public. Improved one commit at a time.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:05080D,50:123B4A,100:05080D&section=footer" width="100%" alt=""/>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,50:4F46E5,100:050816" width="100%" alt="Cyan and indigo footer"/>
+<sub><code>END OF FILE // THE NEXT COMMIT IS THE POINT</code></sub>
 
 </div>
