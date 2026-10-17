@@ -131,29 +131,12 @@
 
 <br/>
 
-<!-- ═══════════════ DRAGON ═══════════════ -->
+<!-- ═══════════════ BANNER ═══════════════ -->
 <div align="center">
 
-## 🐉 FIRE &amp; BLOOD
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7F0C0C,100:0d1117&height=110&section=header&text=FIRE%20%26%20BLOOD%20%C2%B7%20GOLD%20%26%20CRIMSON&fontSize=34&fontColor=FFD700&fontAlignY=50&animation=fadeIn" alt="banner"/>
 
 </div>
-
-```text
-                                                  ______________
-                                            ,===:'.,            `-._
-                                                 `:.`---.__         `-._
-                                                   `:.     `--.         `.
-                                                     \.        `.         `.
-                                             (,,(,    \.         `.   ____,-`.,
-                                          (,'     `/   \.   ,--.___`.'
-                                      ,  ,'  ,--.  `,   \.;'         `
-                                       `{D, {    \  :    \;
-                                         V,,'    /  /    //
-                                         j;;    /  ,' ,-//.    ,---.      ,
-                                         \;'   /  ,' /  _  \  /  _  \   ,'/
-                                               \   `'  / \  `'  / \  `.' /
-                                                `.___,'   `.__,'   `.__,'
-```
 
 <br/>
 
@@ -179,24 +162,6 @@
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=hickytani&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="trophies"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:7F0C0C,50:FFD700,70:7F0C0C,100:0d1117&height=3" width="100%"/>
-<sub>🐉 &nbsp;━━━━━━ ⚡ ━━━━━━ 🪄 ━━━━━━ 🏰 ━━━━━━ 🐺 ━━━━━━ 🦁&nbsp; 🐉</sub>
-</div>
-
-<br/>
-
-<!-- ═══════════════ ACTIVITY ═══════════════ -->
-<div align="center">
-
-## 🔥 DRAGONFIRE ACTIVITY &nbsp;<sub>( contribution graph )</sub>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hickytani&bg_color=0d1117&color=F5E6C8&line=AE0001&point=FFD700&area=true&area_color=7F0C0C&hide_border=true&title_color=FFD700" alt="activity"/>
 
 </div>
 
