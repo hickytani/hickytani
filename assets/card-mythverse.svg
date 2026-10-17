@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 190" width="100%" role="img" aria-label="mythverse">
+<defs><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1a0b18"/><stop offset="1" stop-color="#0d0914"/></linearGradient>
+<linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect width="490" height="190" fill="#08060d"/>
+<rect x="10" y="10" width="470" height="170" rx="10" fill="url(#g)" stroke="#2a1a33" stroke-width="1.5"/>
+<rect x="10" y="10" width="470" height="170" rx="10" fill="none" stroke="#ff2e4d" stroke-width="1.8" stroke-dasharray="40 600" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="0;-640" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="10" y="10" width="470" height="170" rx="10" fill="none" stroke="#7b2ff7" stroke-width="1.8" stroke-dasharray="40 600" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="-320;-960" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="-120" y="10" width="120" height="170" fill="url(#sw)"><animate attributeName="x" values="-120;490" dur="4.5s" repeatCount="indefinite"/></rect>
+<text x="30" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="13" letter-spacing="4" fill="#ff2e4d">// 02</text>
+<text x="30" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="30" font-weight="700" fill="#efe6d8" filter="url(#glow)">mythverse</text>
+<text x="30" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="15" fill="#b69cff">descriptive mythology storywalk</text>
+<circle cx="36" cy="156" r="6" fill="#3178c6"><animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"/></circle>
+<text x="52" y="161" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="14" fill="#6b6478">TypeScript</text>
+<text x="455" y="161" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="14" fill="#ff2e4d" letter-spacing="2">ENTER &#8594;<animate attributeName="opacity" values="1;0.35;1" dur="1.8s" repeatCount="indefinite"/></text>
+</svg>

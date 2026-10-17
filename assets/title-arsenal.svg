@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 86" width="100%" role="img" aria-label="ARSENAL.DLL">
+<defs><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#ff2e4d"/><stop offset="0.6" stop-color="#7b2ff7"/><stop offset="1" stop-color="#7b2ff7" stop-opacity="0"/></linearGradient>
+<linearGradient id="pulse" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect width="1000" height="86" fill="#08060d"/>
+<text x="40" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="13" letter-spacing="5" fill="#ff2e4d">// 02<animate attributeName="opacity" values="1;1;0.3;1;1" keyTimes="0;0.5;0.52;0.55;1" dur="3s" repeatCount="indefinite"/></text>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-weight="700" font-size="34" letter-spacing="7">
+ <text x="40" y="64" fill="#00e5ff" opacity="0.7"><animateTransform attributeName="transform" type="translate" values="0 0;0 0;-4 0;3 0;0 0;0 0" keyTimes="0;0.6;0.62;0.65;0.68;1" dur="4s" repeatCount="indefinite"/>ARSENAL.DLL</text>
+ <text x="40" y="64" fill="#ff2e97" opacity="0.7"><animateTransform attributeName="transform" type="translate" values="0 0;0 0;4 0;-3 0;0 0;0 0" keyTimes="0;0.6;0.62;0.65;0.68;1" dur="4s" repeatCount="indefinite"/>ARSENAL.DLL</text>
+ <text x="40" y="64" fill="#efe6d8" filter="url(#glow)">ARSENAL.DLL</text>
+</g>
+<rect x="40" y="76" width="920" height="2" fill="url(#ln)" opacity="0.8"/>
+<rect x="-200" y="75" width="200" height="4" fill="url(#pulse)" opacity="0.9" filter="url(#glow)"><animate attributeName="x" values="-200;1000" dur="3.2s" repeatCount="indefinite"/></rect>
+<g transform="translate(962 38)" filter="url(#glow)"><rect x="-6" y="-6" width="12" height="12" fill="none" stroke="#ff2e4d" transform="rotate(45)"><animateTransform attributeName="transform" type="rotate" values="45;225;405" dur="6s" repeatCount="indefinite"/></rect><circle r="2.5" fill="#ff2e4d"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle></g>
+</svg>
