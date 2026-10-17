@@ -22,7 +22,7 @@
 
 </div>
 
-Prasun aka hickytani this side.
+Prasun aka Hickytani this side.
 
 I like building stuff, messing around with new tech, and figuring out how things work. Usually somewhere between full-stack development, AI experiments, backend systems, and random ideas that turn into actual projects.
 
