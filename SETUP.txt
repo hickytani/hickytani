@@ -1,0 +1,11 @@
+SETUP
+1. Download and extract this ZIP.
+2. Copy README.md, assets/, and .github/ into your existing hickytani/hickytani repository.
+3. Commit and push to the main branch.
+4. The README references relative assets, so keep the assets/ folder at the repository root.
+
+IMPORTANT:
+- Dragon fire reveals the stack as a looping pixel animation.
+- Two Dementors float as a looping pixel animation.
+- Rabbit contribution grid is currently a visual preview, NOT live GitHub contribution data.
+- GitHub README images cannot run custom JavaScript, so these effects are pre-rendered GIF animations.

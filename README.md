@@ -1,102 +1,51 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B20,35:312E81,70:0E7490,100:06B6D4&text=Prasun&fontColor=FFFFFF&fontSize=64&desc=aka%20hickytani%20%E2%80%A2%20this%20side&descSize=17&animation=fadeIn" />
+<img src="./assets/dragon-fire-stack.gif" width="100%" alt="Pixel dragon breathes fire and reveals the developer tech stack" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=650&lines=building+stuff+I+think+is+cool;AI+%C2%B7+full-stack+%C2%B7+backend+%C2%B7+systems;learning%2C+building%2C+breaking%2C+repeating." alt="Animated intro"/>
+<img src="./assets/two-dementors.gif" width="100%" alt="Two floating pixel Dementors" />
+
+# `Prasun aka hickytani`
+
+**this side.**
+
+building stuff · trying things · learning how things work
 
 </div>
 
 ---
 
-<div align="center">
+```bash
+$ whoami
+Prasun aka hickytani
 
-### THE MULTIVERSE
+$ interests
+full-stack / backend / AI APIs / developer tools / systems
 
-*Code, chaos & a little magic.*
+$ current_mode
+building things and figuring them out as I go
+```
 
-</div>
+## `// toolkit`
 
-### 01 / THE WIZARDING WORLD
+| Language | Build | Backend & data |
+|:--|:--|:--|
+| Java · C++ · Python | JavaScript · TypeScript · React · Next.js | FastAPI · Node.js · PostgreSQL · Docker |
+| AI APIs · RAG · agents | Git · Linux · REST APIs | systems · developer tooling |
 
-<div align="center">
-
-[**Explore Dementor animations →**](https://giphy.com/explore/dementor)
-
-</div>
-
-### 02 / THE REALM OF DRAGONS
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3oEhmGfS6wSQ6uMaOs/giphy.gif" width="85%" alt="Game of Thrones dragon animation"/>
-
-<sub>Fire made flesh. The sky belongs to dragons.</sub>
-
-</div>
-
-### 03 / STARK INDUSTRIES
+## `// contribution garden`
 
 <div align="center">
 
-<a href="https://giphy.com/gifs/marvel-iron-man-hero-bSiv3k4wU96nvF3OUU">
-<img src="https://media.giphy.com/media/bSiv3k4wU96nvF3OUU/giphy.gif" width="75%" alt="Iron Man suit-up animation"/>
-</a>
-
-<sub>Sometimes the solution is more engineering.</sub>
+<img src="./assets/rabbit-contributions-preview.gif" width="100%" alt="Pixel rabbit hopping across a contribution-grid-style animation" />
 
 </div>
 
----
-
-### `hey, i'm Prasun 👋`
-
-Prasun aka hickytani this side.
-
-I like building stuff, messing around with new tech, and figuring out how things work. Usually somewhere between full-stack development, AI experiments, backend systems, and random ideas that turn into actual projects.
-
-Still learning, still building. That's pretty much it.
-
-### `currently messing with`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2400&pause=700&color=A78BFA&center=true&vCenter=true&width=500&lines=full-stack+products;AI+APIs+%26+agents;backend+%26+systems;developer+tools;random+ideas+that+become+code" alt="Current interests"/>
-
-</div>
-
-### `the toolbox`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,react,nextjs,nodejs,fastapi,postgres,docker,git&perline=6" alt="Tech stack"/>
-
-<br/><br/>
-
-<sub>Java · Python · C++ · TypeScript · React · Next.js · Node.js · APIs · databases · AI tools</sub>
-
-</div>
+> The rabbit animation is currently a visual starter, not connected to your actual contribution data yet. To make it track your real GitHub graph, add a generator workflow that fetches your contribution calendar and redraws the heatmap.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:A78BFA" width="100%" alt="Gradient divider"/>
-
-### THE ACTIVITY GARDEN 🐇
-
-<sub>one commit at a time</sub>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=hickytani&show_icons=true&hide_border=true&bg_color=0D1525&title_color=67E8F9&text_color=C9D1D9&icon_color=A78BFA" height="160" alt="GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickytani&layout=compact&hide_border=true&bg_color=0D1525&title_color=67E8F9&text_color=C9D1D9" height="160" alt="Language statistics"/>
-
-<br/><br/>
-
-<sub>made with curiosity, caffeine & questionable decisions.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,50:4338CA,100:080B20" alt="Gradient footer"/>
+<sub>cyan → indigo → violet · built in pixels, powered by curiosity</sub>
 
 </div>
