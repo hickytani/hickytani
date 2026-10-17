@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="hickytani" width="100%"/>
+<img src="./assets/header-v2.svg" alt="hickytani" width="100%"/>
 
 <img src="./assets/title-about.svg" alt="about" width="100%"/>
 <img src="./assets/terminal.svg" alt="about hickytani" width="100%"/>
